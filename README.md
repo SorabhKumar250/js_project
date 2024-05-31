@@ -1,1 +1,1 @@
-# js_project
+# js_project for Meta Crafters
